@@ -24,3 +24,11 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 > gyuguyt
 >> difhsuhfgyhghnbj
 >>> hjgfysdg
+## ordered list
+1. cse
+2. ece
+3. eee
+    1. eee a
+    2. eee b
+4. civil
+5. mech
