@@ -32,3 +32,24 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
     2. eee b
 4. civil
 5. mech
+## unordered list
+_ cse
+_ ece
+_ mech
+        * mech a
+        * mech b
+_ civil
+        * civil a
+        * civil b
+_ eee
+## coding
+~ ~ ~
+def fun():
+    print("helloapssdc")
+~ ~ ~ ~
+~ ~ ~
+fun()
+~ ~ ~
+~
+printf("hello")
+
