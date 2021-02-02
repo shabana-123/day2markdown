@@ -46,11 +46,8 @@ _ eee
 ```
 def fun():
     print("helloapssdc")
-````
 ```
-fun()
-```
-```
-printf("hello")
-inserting urls
-[link] (https://www.markdownguide.org/cheat-sheet/)
+
+
+## inserting urls
+[link](https://www.markdownguide.org/cheat-sheet/)
