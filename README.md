@@ -43,13 +43,14 @@ _ civil
         * civil b
 _ eee
 ## coding
-~ ~ ~
+```
 def fun():
     print("helloapssdc")
-~ ~ ~ ~
-~ ~ ~
+````
+```
 fun()
-~ ~ ~
-~
+```
+`
 printf("hello")
+`
 
